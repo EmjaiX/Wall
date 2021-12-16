@@ -1,0 +1,25 @@
+[{
+    "id":0,
+    "username":"dario",
+    "password":"abc123**"
+},{
+    "id":1,
+    "username":"john",
+    "password":"abc123**"
+},{
+    "id":2,
+    "username":"kara25",
+    "password":"abc123**"
+},{
+    "id":3,
+    "username":"magicmike",
+    "password":"abc123**"
+},{
+    "id":4,
+    "username":"dave",
+    "password":"abc123**"
+},{
+    "id":5,
+    "username":"demonslayer",
+    "password":"abc123**"
+}]
